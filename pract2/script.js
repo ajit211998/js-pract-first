@@ -15,7 +15,7 @@ function secondMaximum() {
             ele[3].value = ele[2].value;
         }
     }
-
+0
 
 
     //else if(ele[0].value >= ele[1].value)
