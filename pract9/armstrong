@@ -22,11 +22,11 @@
             alert("Not Armstrong number");
         }
     } <
-    /script> <
-    /head> <
+    /script> < /
+    head > <
     body >
     Enter any Number: < input id = "no_input" >
     <
-    button onclick = "armstr()" > Check < /button></br > < /br> <
-    /body> <
+    button onclick = "armstr()" > Check < /button></br > < /br> < /
+    body > <
     /html>
